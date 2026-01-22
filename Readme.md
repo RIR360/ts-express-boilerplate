@@ -1,4 +1,4 @@
-# express5-ts-boilerplate
+# ts-express-boilerplate
 
 A high-performance, strictly typed starter for modern Node.js applications. Designed for developers who want the latest features of Express 5 and Node 24 without the bloat.
 
