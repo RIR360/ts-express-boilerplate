@@ -1,4 +1,4 @@
-import express, {type Request, type Response, type NextFunction, type ErrorRequestHandler} from 'express';
+import express, {type Request, type Response, type NextFunction} from 'express';
 
 const app = express();
 
